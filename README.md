@@ -23,14 +23,14 @@ Após acertar o número o programa, nós informa o número de tentativas para ch
 
 
 ## Código
-
+Chegamos então na parte de codigo do projeto, iremos começar com a base visual do projeto que consiste na nossa Linguagem de Marcação de Hipertexto o famoso HTML juntamente com o CSS.
 <img src="img/code_2.png" alt="imagem do código HTML ">
 <br>
-Chegamos então na parte de codigo do projeto, iremos começar com a base visual do projeto que consiste na nossa Linguagem de Marcação de Hipertexto o famoso HTML juntamente com o CSS.
 
-
-<img src="img/code_1.png" alt="imagem do Código Javascript ">
-<br>
 Enfim chegamos ao coração do projeto e o motivo dele existir que é o nosso código Javascript, e vale ressaltar dois pontos que não foram citados acima, que é o fato de que nós utilizamos o Responsive Voice para que o navegador pudesse "Ler" o que está escrito na tela possibilitando pessoas com baixa visão também utilize nosso programa, e outro ponto é que o número secreto só irá se repetir após todas as possibilidades de números entre 1 e 10 forem adivinhados
+<br>
+<img src="img/code_1.png" alt="imagem do Código Javascript ">
+
+
 
 
